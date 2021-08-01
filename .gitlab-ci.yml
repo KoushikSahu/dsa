@@ -1,0 +1,11 @@
+image: ubuntu:latest
+
+stages:
+  - test
+
+compilation_test:
+  stage: test
+  script:
+    - apt-get update -y
+    - apt-get install build-essential -y
+    - bash tests/compilation_test.sh
