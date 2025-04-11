@@ -2,7 +2,7 @@
 
 - [x] Two Sum
 - [x] Add Two Numbers
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Median of Two Sorted Arrays
 - [ ] Longest Palindromic Substring
 - [ ] Coin Change II
