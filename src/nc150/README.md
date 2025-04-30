@@ -4,7 +4,7 @@
 - [x] Add Two Numbers
 - [x] Longest Substring Without Repeating Characters
 - [ ] Median of Two Sorted Arrays
-- [ ] Longest Palindromic Substring
+- [x] Longest Palindromic Substring
 - [ ] Coin Change II
 - [ ] Reverse Integer
 - [ ] Count Good Nodes in Binary Tree
