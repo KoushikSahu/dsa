@@ -5,7 +5,7 @@
 - [x] Longest Substring Without Repeating Characters
 - [ ] Median of Two Sorted Arrays
 - [x] Longest Palindromic Substring
-- [ ] Coin Change II
+- [x] Coin Change II
 - [ ] Reverse Integer
 - [ ] Count Good Nodes in Binary Tree
 - [ ] Regular Expression Matching
@@ -14,7 +14,7 @@
 - [ ] 3Sum
 - [ ] Letter Combinations of a Phone Number
 - [ ] Remove Nth Node From End of List
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Merge Two Sorted Lists
 - [ ] Generate Parentheses
 - [ ] Merge k Sorted Lists
