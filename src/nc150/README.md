@@ -6,7 +6,7 @@
 - [ ] Median of Two Sorted Arrays
 - [x] Longest Palindromic Substring
 - [x] Coin Change II
-- [ ] Reverse Integer
+- [x] Reverse Integer
 - [ ] Count Good Nodes in Binary Tree
 - [ ] Regular Expression Matching
 - [ ] Container With Most Water
