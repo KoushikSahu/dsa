@@ -7,7 +7,7 @@
 - [x] Longest Palindromic Substring
 - [x] Coin Change II
 - [x] Reverse Integer
-- [ ] Count Good Nodes in Binary Tree
+- [x] Count Good Nodes in Binary Tree
 - [ ] Regular Expression Matching
 - [ ] Container With Most Water
 - [ ] Rotting Oranges
@@ -15,7 +15,7 @@
 - [ ] Letter Combinations of a Phone Number
 - [ ] Remove Nth Node From End of List
 - [x] Valid Parentheses
-- [ ] Merge Two Sorted Lists
+- [x] Merge Two Sorted Lists
 - [ ] Generate Parentheses
 - [ ] Merge k Sorted Lists
 - [ ] Reverse Nodes in k-Group
