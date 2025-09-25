@@ -10,7 +10,7 @@
 - [x] Count Good Nodes in Binary Tree
 - [ ] Regular Expression Matching
 - [ ] Container With Most Water
-- [ ] Rotting Oranges
+- [x] Rotting Oranges
 - [ ] 3Sum
 - [ ] Letter Combinations of a Phone Number
 - [ ] Remove Nth Node From End of List
@@ -19,7 +19,7 @@
 - [ ] Generate Parentheses
 - [ ] Merge k Sorted Lists
 - [ ] Reverse Nodes in k-Group
-- [ ] Diameter of Binary Tree
+- [x] Diameter of Binary Tree
 - [ ] Search in Rotated Sorted Array
 - [ ] Valid Sudoku
 - [ ] Combination Sum
