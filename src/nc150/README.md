@@ -8,7 +8,7 @@
 - [x] Coin Change II
 - [x] Reverse Integer
 - [x] Count Good Nodes in Binary Tree
-- [ ] Regular Expression Matching
+- [x] Regular Expression Matching
 - [x] (Revise) Container With Most Water
 - [x] Rotting Oranges
 - [ ] 3Sum
