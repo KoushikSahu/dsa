@@ -52,7 +52,8 @@ void _print(T t, V... v) {__print(t); if (sizeof...(v)) cerr << ", "; _print(v..
 
 class Solution {
 public:
-	vector<vector<int>> threeSum(vector<int>& nums) {
+	// time complexity: O(n^2 log n)
+	vector<vector<int>> threeSumSlow(vector<int>& nums) {
 		int n = (int)nums.size();
 		set<int> seen;
 		set<vector<int>> ans_set;
@@ -74,15 +75,47 @@ public:
 		}
 		return ans;
 	}
+
+	vector<vector<int>> threeSum(vector<int>& nums) {
+		int n = (int)nums.size();
+		vector<vector<int>> ans;
+
+		sort(nums.begin(), nums.end());
+
+		for(int i=0; i<n; i++) {
+			if(i>0 && nums[i] == nums[i-1]){
+				continue;
+			}
+			int j = i + 1, k = n-1;
+			while(j<k){
+				int sm = nums[i] + nums[j] + nums[k];
+				if(sm > 0) {
+					k--;
+				} else if(sm < 0) {
+					j++;
+				} else {
+					ans.push_back({nums[i], nums[j], nums[k]});
+					j++;
+					while(j<k && nums[j] == nums[j-1]) j++;
+				}
+			}
+		}
+
+		return ans;
+	}
 };
 
 int main(){
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
-	int T=1;
-	//cin>>T;
-	while(T--){
-		solve();
+	Solution s;
+	vector<int> a{1, 3, 5, 5,-8, -4, -8};
+	auto ans = s.threeSum(a);
+	for(auto i: ans){
+		for(auto j: i){
+			cout<<j<<' ';
+		}
+		cout<<'\n';
 	}
 	return 0;
 }
