@@ -11,7 +11,7 @@
 - [x] Regular Expression Matching
 - [x] (Revise) Container With Most Water
 - [x] Rotting Oranges
-- [ ] 3Sum
+- [x] 3Sum
 - [ ] Letter Combinations of a Phone Number
 - [ ] Remove Nth Node From End of List
 - [x] Valid Parentheses
