@@ -12,7 +12,7 @@
 - [x] Container With Most Water - Did not see this intuitively. Revise!
 - [x] Rotting Oranges
 - [x] 3Sum - O(n<sup>2</sup>) solution requires two-pointer approach. Revise!
-- [ ] Letter Combinations of a Phone Number
+- [x] Letter Combinations of a Phone Number
 - [ ] Remove Nth Node From End of List
 - [x] Valid Parentheses
 - [x] Merge Two Sorted Lists
