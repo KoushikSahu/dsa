@@ -16,8 +16,8 @@
 - [x] Remove Nth Node From End of List
 - [x] Valid Parentheses
 - [x] Merge Two Sorted Lists
-- [ ] Generate Parentheses
-- [ ] Merge k Sorted Lists
+- [x] Generate Parentheses
+- [x] Merge k Sorted Lists
 - [ ] Reverse Nodes in k-Group
 - [x] Diameter of Binary Tree
 - [ ] Search in Rotated Sorted Array
