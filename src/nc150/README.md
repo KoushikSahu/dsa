@@ -18,7 +18,7 @@
 - [x] Merge Two Sorted Lists
 - [x] Generate Parentheses
 - [x] Merge k Sorted Lists
-- [ ] Reverse Nodes in k-Group
+- [x] Reverse Nodes in k-Group
 - [x] Diameter of Binary Tree
 - [ ] Search in Rotated Sorted Array
 - [ ] Valid Sudoku
