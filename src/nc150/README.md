@@ -20,7 +20,7 @@
 - [x] Merge k Sorted Lists
 - [x] Reverse Nodes in k-Group
 - [x] Diameter of Binary Tree
-- [ ] Search in Rotated Sorted Array
+- [x] Search in Rotated Sorted Array
 - [ ] Valid Sudoku
 - [ ] Combination Sum
 - [ ] Combination Sum II
