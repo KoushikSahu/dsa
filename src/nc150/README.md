@@ -21,7 +21,7 @@
 - [x] Reverse Nodes in k-Group
 - [x] Diameter of Binary Tree
 - [x] Search in Rotated Sorted Array
-- [ ] Valid Sudoku
+- [x] Valid Sudoku
 - [ ] Combination Sum
 - [ ] Combination Sum II
 - [ ] Trapping Rain Water
