@@ -22,7 +22,7 @@
 - [x] Diameter of Binary Tree
 - [x] Search in Rotated Sorted Array
 - [x] Valid Sudoku
-- [ ] Combination Sum
+- [x] Combination Sum
 - [ ] Combination Sum II
 - [ ] Trapping Rain Water
 - [ ] Multiply Strings
