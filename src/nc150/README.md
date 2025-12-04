@@ -22,8 +22,8 @@
 - [x] Diameter of Binary Tree
 - [x] Search in Rotated Sorted Array
 - [x] Valid Sudoku
-- [x] Combination Sum
-- [ ] Combination Sum II
+- [x] Combination Sum - See again, double counting
+- [x] Combination Sum II - See again, double counting
 - [ ] Trapping Rain Water
 - [ ] Multiply Strings
 - [ ] Jump Game II
