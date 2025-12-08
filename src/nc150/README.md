@@ -25,7 +25,7 @@
 - [x] Combination Sum - See again, double counting
 - [x] Combination Sum II - See again, double counting
 - [x] Trapping Rain Water
-- [ ] Multiply Strings
+- [x] Multiply Strings
 - [ ] Jump Game II
 - [ ] Permutations
 - [ ] Rotate Image
