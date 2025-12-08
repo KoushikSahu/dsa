@@ -24,7 +24,7 @@
 - [x] Valid Sudoku
 - [x] Combination Sum - See again, double counting
 - [x] Combination Sum II - See again, double counting
-- [ ] Trapping Rain Water
+- [x] Trapping Rain Water
 - [ ] Multiply Strings
 - [ ] Jump Game II
 - [ ] Permutations
