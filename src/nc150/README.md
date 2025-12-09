@@ -26,8 +26,8 @@
 - [x] Combination Sum II - See again, double counting
 - [x] Trapping Rain Water
 - [x] Multiply Strings
-- [ ] Jump Game II
-- [ ] Permutations
+- [x] Jump Game II - the BFS like solution is interesting
+- [x] Permutations - just remember how to do next_permutation iteratively, could be useful
 - [ ] Rotate Image
 - [ ] Group Anagrams
 - [ ] Pow(x, n)
