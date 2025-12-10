@@ -28,9 +28,9 @@
 - [x] Multiply Strings
 - [x] Jump Game II - the BFS like solution is interesting
 - [x] Permutations - just remember how to do next_permutation iteratively, could be useful
-- [ ] Rotate Image
-- [ ] Group Anagrams
-- [ ] Pow(x, n)
+- [x] Rotate Image
+- [x] Group Anagrams
+- [x] Pow(x, n) - revise binary exponentiation if required
 - [ ] N-Queens
 - [ ] Maximum Subarray
 - [ ] Spiral Matrix
