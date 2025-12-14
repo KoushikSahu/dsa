@@ -31,8 +31,8 @@
 - [x] Rotate Image
 - [x] Group Anagrams
 - [x] Pow(x, n) - revise binary exponentiation if required
-- [ ] N-Queens
-- [ ] Maximum Subarray
+- [x] N-Queens
+- [x] Maximum Subarray
 - [ ] Spiral Matrix
 - [ ] Jump Game
 - [ ] Merge Intervals
