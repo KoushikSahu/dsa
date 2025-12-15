@@ -33,9 +33,9 @@
 - [x] Pow(x, n) - revise binary exponentiation if required
 - [x] N-Queens
 - [x] Maximum Subarray
-- [ ] Spiral Matrix
-- [ ] Jump Game
-- [ ] Merge Intervals
+- [x] Spiral Matrix
+- [x] Jump Game
+- [x] Merge Intervals
 - [ ] Insert Interval
 - [ ] Permutation in String
 - [ ] Subtree of Another Tree
