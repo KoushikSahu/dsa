@@ -36,9 +36,9 @@
 - [x] Spiral Matrix
 - [x] Jump Game
 - [x] Merge Intervals
-- [ ] Insert Interval
-- [ ] Permutation in String
-- [ ] Subtree of Another Tree
+- [x] Insert Interval
+- [x] Permutation in String
+- [x] Subtree of Another Tree - merkle hashing can be used to do tree comparison in O(1)
 - [ ] Unique Paths
 - [ ] Plus One
 - [ ] Climbing Stairs
