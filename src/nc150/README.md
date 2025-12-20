@@ -39,10 +39,10 @@
 - [x] Insert Interval
 - [x] Permutation in String
 - [x] Subtree of Another Tree - merkle hashing can be used to do tree comparison in O(1)
-- [ ] Unique Paths
-- [ ] Plus One
-- [ ] Climbing Stairs
-- [ ] Edit Distance
+- [x] Unique Paths
+- [x] Plus One
+- [x] Climbing Stairs
+- [x] Edit Distance
 - [ ] Set Matrix Zeroes
 - [ ] Search a 2D Matrix
 - [ ] Minimum Window Substring
