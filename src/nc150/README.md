@@ -43,9 +43,9 @@
 - [x] Plus One
 - [x] Climbing Stairs
 - [x] Edit Distance
-- [ ] Set Matrix Zeroes
-- [ ] Search a 2D Matrix
-- [ ] Minimum Window Substring
+- [x] Set Matrix Zeroes - Not intuitive, just clever, revise!
+- [x] Search a 2D Matrix
+- [x] Minimum Window Substring
 - [ ] Subsets
 - [ ] Word Search
 - [ ] Largest Rectangle in Histogram
