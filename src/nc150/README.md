@@ -46,9 +46,9 @@
 - [x] Set Matrix Zeroes - Not intuitive, just clever, revise!
 - [x] Search a 2D Matrix
 - [x] Minimum Window Substring
-- [ ] Subsets
-- [ ] Word Search
-- [ ] Largest Rectangle in Histogram
+- [x] Subsets
+- [x] Word Search
+- [x] Largest Rectangle in Histogram - Revise! single stack intuition might be useful at times
 - [ ] Subsets II
 - [ ] Decode Ways
 - [ ] Detect Squares
