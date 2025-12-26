@@ -49,8 +49,8 @@
 - [x] Subsets
 - [x] Word Search
 - [x] Largest Rectangle in Histogram - Revise! single stack intuition might be useful at times
-- [ ] Subsets II
-- [ ] Decode Ways
+- [x] Subsets II
+- [x] Decode Ways
 - [ ] Detect Squares
 - [ ] Interleaving String
 - [ ] Validate Binary Search Tree
