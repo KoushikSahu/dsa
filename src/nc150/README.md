@@ -51,12 +51,13 @@
 - [x] Largest Rectangle in Histogram - Revise! single stack intuition might be useful at times
 - [x] Subsets II
 - [x] Decode Ways
-- [ ] Detect Squares
-- [ ] Interleaving String
-- [ ] Validate Binary Search Tree
-- [ ] Binary Tree Level Order Traversal
-- [ ] Last Stone Weight
-- [ ] Maximum Depth of Binary Tree
+- [x] Detect Squares
+- [x] Interleaving String
+- [x] Validate Binary Search Tree - It's simple, yet I forget that I have to compare entire trees
+- [x] Same Tree
+- [x] Binary Tree Level Order Traversal
+- [x] Last Stone Weight
+- [x] Maximum Depth of Binary Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Task Scheduler
 - [ ] Balanced Binary Tree
