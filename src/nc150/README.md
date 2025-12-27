@@ -58,11 +58,11 @@
 - [x] Binary Tree Level Order Traversal
 - [x] Last Stone Weight
 - [x] Maximum Depth of Binary Tree
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Task Scheduler
-- [ ] Balanced Binary Tree
-- [ ] Distinct Subsequences
-- [ ] Best Time to Buy and Sell Stock
+- [x] Construct Binary Tree from Preorder and Inorder Traversal
+- [x] Task Scheduler
+- [x] Balanced Binary Tree
+- [x] Distinct Subsequences
+- [x] Best Time to Buy and Sell Stock
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Valid Palindrome
 - [ ] Word Ladder
