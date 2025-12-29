@@ -63,10 +63,10 @@
 - [x] Balanced Binary Tree
 - [x] Distinct Subsequences
 - [x] Best Time to Buy and Sell Stock
-- [ ] Binary Tree Maximum Path Sum
-- [ ] Valid Palindrome
-- [ ] Word Ladder
-- [ ] Longest Consecutive Sequence
+- [x] Binary Tree Maximum Path Sum
+- [x] Valid Palindrome
+- [x] Word Ladder
+- [x] Longest Consecutive Sequence - Revise, this is simple but I didn't think of it on my own
 - [ ] Surrounded Regions
 - [ ] Palindrome Partitioning
 - [ ] Clone Graph
