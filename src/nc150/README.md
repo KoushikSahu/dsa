@@ -67,10 +67,10 @@
 - [x] Valid Palindrome
 - [x] Word Ladder
 - [x] Longest Consecutive Sequence - Revise, this is simple but I didn't think of it on my own
-- [ ] Surrounded Regions
-- [ ] Palindrome Partitioning
-- [ ] Clone Graph
-- [ ] Gas Station
+- [x] Surrounded Regions
+- [x] Palindrome Partitioning
+- [x] Clone Graph
+- [x] Gas Station - Didn't come up with the idea on my own, better to revise
 - [ ] Palindromic Substrings
 - [ ] Single Number
 - [ ] Copy List with Random Pointer
