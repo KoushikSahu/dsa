@@ -74,8 +74,8 @@
 - [x] Palindromic Substrings
 - [x] Single Number
 - [x] Copy List with Random Pointer
-- [ ] Word Break
-- [ ] Linked List Cycle
+- [x] Word Break
+- [x] Linked List Cycle
 - [ ] Reorder List
 - [ ] LRU Cache
 - [ ] Evaluate Reverse Polish Notation
