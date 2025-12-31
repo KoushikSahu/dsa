@@ -71,9 +71,9 @@
 - [x] Palindrome Partitioning
 - [x] Clone Graph
 - [x] Gas Station - Didn't come up with the idea on my own, better to revise
-- [ ] Palindromic Substrings
-- [ ] Single Number
-- [ ] Copy List with Random Pointer
+- [x] Palindromic Substrings
+- [x] Single Number
+- [x] Copy List with Random Pointer
 - [ ] Word Break
 - [ ] Linked List Cycle
 - [ ] Reorder List
