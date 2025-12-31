@@ -76,7 +76,7 @@
 - [x] Copy List with Random Pointer
 - [x] Word Break
 - [x] Linked List Cycle
-- [ ] Reorder List
+- [x] Reorder List
 - [ ] LRU Cache
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Maximum Product Subarray
