@@ -77,7 +77,7 @@
 - [x] Word Break
 - [x] Linked List Cycle
 - [x] Reorder List
-- [ ] LRU Cache
+- [x] LRU Cache
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
