@@ -1,152 +1,152 @@
 # Progress
 
-- [x] Two Sum
-- [x] Add Two Numbers
-- [x] Longest Substring Without Repeating Characters
-- [x] Median of Two Sorted Arrays
-- [x] Longest Palindromic Substring
-- [x] Coin Change II
-- [x] Reverse Integer
-- [x] Count Good Nodes in Binary Tree
-- [x] Regular Expression Matching
-- [x] Container With Most Water - Did not see this intuitively. Revise!
-- [x] Rotting Oranges
-- [x] 3Sum - O(n<sup>2</sup>) solution requires two-pointer approach. Revise!
-- [x] Letter Combinations of a Phone Number
-- [x] Remove Nth Node From End of List
-- [x] Valid Parentheses
-- [x] Merge Two Sorted Lists
-- [x] Generate Parentheses
-- [x] Merge k Sorted Lists
-- [x] Reverse Nodes in k-Group
-- [x] Diameter of Binary Tree
-- [x] Search in Rotated Sorted Array
-- [x] Valid Sudoku
-- [x] Combination Sum - See again, double counting
-- [x] Combination Sum II - See again, double counting
-- [x] Trapping Rain Water
-- [x] Multiply Strings
-- [x] Jump Game II - the BFS like solution is interesting
-- [x] Permutations - just remember how to do next_permutation iteratively, could be useful
-- [x] Rotate Image
-- [x] Group Anagrams
-- [x] Pow(x, n) - revise binary exponentiation if required
-- [x] N-Queens
-- [x] Maximum Subarray
-- [x] Spiral Matrix
-- [x] Jump Game
-- [x] Merge Intervals
-- [x] Insert Interval
-- [x] Permutation in String
-- [x] Subtree of Another Tree - merkle hashing can be used to do tree comparison in O(1)
-- [x] Unique Paths
-- [x] Plus One
-- [x] Climbing Stairs
-- [x] Edit Distance
-- [x] Set Matrix Zeroes - Not intuitive, just clever, revise!
-- [x] Search a 2D Matrix
-- [x] Minimum Window Substring
-- [x] Subsets
-- [x] Word Search
-- [x] Largest Rectangle in Histogram - Revise! single stack intuition might be useful at times
-- [x] Subsets II
-- [x] Decode Ways
-- [x] Detect Squares
-- [x] Interleaving String
-- [x] Validate Binary Search Tree - It's simple, yet I forget that I have to compare entire trees
-- [x] Same Tree
-- [x] Binary Tree Level Order Traversal
-- [x] Last Stone Weight
-- [x] Maximum Depth of Binary Tree
-- [x] Construct Binary Tree from Preorder and Inorder Traversal
-- [x] Task Scheduler
-- [x] Balanced Binary Tree
-- [x] Distinct Subsequences
-- [x] Best Time to Buy and Sell Stock
-- [x] Binary Tree Maximum Path Sum
-- [x] Valid Palindrome
-- [x] Word Ladder
-- [x] Longest Consecutive Sequence - Revise, this is simple but I didn't think of it on my own
-- [x] Surrounded Regions
-- [x] Palindrome Partitioning
-- [x] Clone Graph
-- [x] Gas Station - Didn't come up with the idea on my own, better to revise
-- [x] Palindromic Substrings
-- [x] Single Number
-- [x] Copy List with Random Pointer
-- [x] Word Break
-- [x] Linked List Cycle
-- [x] Reorder List
-- [x] LRU Cache
-- [ ] Evaluate Reverse Polish Notation
-- [ ] Maximum Product Subarray
-- [ ] Find Minimum in Rotated Sorted Array
-- [ ] Min Stack
-- [ ] Valid Parenthesis String
-- [ ] Two Sum II - Input Array Is Sorted
-- [ ] Min Cost to Connect All Points
-- [ ] Redundant Connection
-- [ ] Max Area of Island
-- [ ] Reverse Bits
-- [ ] Number of 1 Bits
-- [ ] House Robber
-- [ ] Binary Tree Right Side View
-- [ ] Number of Islands
-- [ ] Happy Number
-- [ ] Reverse Linked List
-- [ ] Course Schedule
-- [ ] Implement Trie (Prefix Tree)
-- [ ] Course Schedule II
-- [ ] Design Add and Search Words Data Structure
-- [ ] Word Search II
-- [ ] House Robber II
-- [ ] Kth Largest Element in an Array
-- [ ] Contains Duplicate
-- [ ] Invert Binary Tree
-- [ ] Daily Temperatures
-- [ ] Longest Common Subsequence
-- [ ] Kth Smallest Element in a BST
-- [ ] Network Delay Time
-- [ ] Lowest Common Ancestor of a Binary Search Tree
-- [ ] Min Cost Climbing Stairs
-- [ ] Product of Array Except Self
-- [ ] Sliding Window Maximum
-- [ ] Valid Anagram
-- [ ] Meeting Rooms
-- [ ] Meeting Rooms II
-- [ ] Partition Labels
-- [ ] Graph Valid Tree
-- [ ] Missing Number
-- [ ] Alien Dictionary
-- [ ] Encode and Decode Strings
-- [ ] Kth Largest Element in a Stream
-- [ ] Binary Search
-- [ ] Swim in Rising Water
-- [ ] Walls and Gates
-- [ ] Find the Duplicate Number
-- [ ] Cheapest Flights Within K Stops
-- [ ] Find Median from Data Stream
-- [ ] Serialize and Deserialize Binary Tree
-- [ ] Longest Increasing Subsequence
-- [ ] Best Time to Buy and Sell Stock with Cooldown
-- [ ] Burst Balloons
-- [ ] Coin Change
-- [ ] Number of Connected Components in an Undirected Graph
-- [ ] Longest Increasing Path in a Matrix
-- [ ] Reconstruct Itinerary
-- [ ] Counting Bits
-- [ ] Top K Frequent Elements
-- [ ] Design Twitter
-- [ ] Hand of Straights
-- [ ] Sum of Two Integers
-- [ ] Car Fleet
-- [ ] Koko Eating Bananas
-- [ ] Partition Equal Subset Sum
-- [ ] Pacific Atlantic Water Flow
-- [ ] Longest Repeating Character Replacement
-- [ ] Non-overlapping Intervals
-- [ ] Minimum Interval to Include Each Query
-- [ ] Merge Triplets to Form Target Triplet
-- [ ] Target Sum
-- [ ] K Closest Points to Origin
-- [ ] Time Based Key-Value Store
+- [x] 1. Two Sum
+- [x] 2. Add Two Numbers
+- [x] 3. Longest Substring Without Repeating Characters
+- [x] 4. Median of Two Sorted Arrays
+- [x] 5. Longest Palindromic Substring
+- [x] 6. Coin Change II
+- [x] 7. Reverse Integer
+- [x] 8. Count Good Nodes in Binary Tree
+- [x] 9. Regular Expression Matching
+- [x] 10. Container With Most Water - Did not see this intuitively. Revise!
+- [x] 11. Rotting Oranges
+- [x] 12. 3Sum - O(n<sup>2</sup>) solution requires two-pointer approach. Revise!
+- [x] 13. Letter Combinations of a Phone Number
+- [x] 14. Remove Nth Node From End of List
+- [x] 15. Valid Parentheses
+- [x] 16. Merge Two Sorted Lists
+- [x] 17. Generate Parentheses
+- [x] 18. Merge k Sorted Lists
+- [x] 19. Reverse Nodes in k-Group
+- [x] 20. Diameter of Binary Tree
+- [x] 21. Search in Rotated Sorted Array
+- [x] 22. Valid Sudoku
+- [x] 23. Combination Sum - See again, double counting
+- [x] 24. Combination Sum II - See again, double counting
+- [x] 25. Trapping Rain Water
+- [x] 26. Multiply Strings
+- [x] 27. Jump Game II - the BFS like solution is interesting
+- [x] 28. Permutations - just remember how to do next_permutation iteratively, could be useful
+- [x] 29. Rotate Image
+- [x] 30. Group Anagrams
+- [x] 31. Pow(x, n) - revise binary exponentiation if required
+- [x] 32. N-Queens
+- [x] 33. Maximum Subarray
+- [x] 34. Spiral Matrix
+- [x] 35. Jump Game
+- [x] 36. Merge Intervals
+- [x] 37. Insert Interval
+- [x] 38. Permutation in String
+- [x] 39. Subtree of Another Tree - merkle hashing can be used to do tree comparison in O(1)
+- [x] 40. Unique Paths
+- [x] 41. Plus One
+- [x] 42. Climbing Stairs
+- [x] 43. Edit Distance
+- [x] 44. Set Matrix Zeroes - Not intuitive, just clever, revise!
+- [x] 45. Search a 2D Matrix
+- [x] 46. Minimum Window Substring
+- [x] 47. Subsets
+- [x] 48. Word Search
+- [x] 49. Largest Rectangle in Histogram - Revise! single stack intuition might be useful at times
+- [x] 50. Subsets II
+- [x] 51. Decode Ways
+- [x] 52. Detect Squares
+- [x] 53. Interleaving String
+- [x] 54. Validate Binary Search Tree - It's simple, yet I forget that I have to compare entire trees
+- [x] 55. Same Tree
+- [x] 56. Binary Tree Level Order Traversal
+- [x] 57. Last Stone Weight
+- [x] 58. Maximum Depth of Binary Tree
+- [x] 59. Construct Binary Tree from Preorder and Inorder Traversal
+- [x] 60. Task Scheduler
+- [x] 61. Balanced Binary Tree
+- [x] 62. Distinct Subsequences
+- [x] 63. Best Time to Buy and Sell Stock
+- [x] 64. Binary Tree Maximum Path Sum
+- [x] 65. Valid Palindrome
+- [x] 66. Word Ladder
+- [x] 67. Longest Consecutive Sequence - Revise, this is simple but I didn't think of it on my own
+- [x] 68. Surrounded Regions
+- [x] 69. Palindrome Partitioning
+- [x] 70. Clone Graph
+- [x] 71. Gas Station - Didn't come up with the idea on my own, better to revise
+- [x] 72. Palindromic Substrings
+- [x] 73. Single Number
+- [x] 74. Copy List with Random Pointer
+- [x] 75. Word Break
+- [x] 76. Linked List Cycle
+- [x] 77. Reorder List
+- [x] 78. LRU Cache
+- [x] 79. Evaluate Reverse Polish Notation
+- [x] 80. Maximum Product Subarray
+- [x] 81. Find Minimum in Rotated Sorted Array
+- [x] 82. Min Stack
+- [x] 83. Valid Parenthesis String
+- [ ] 84. Two Sum II - Input Array Is Sorted
+- [ ] 85. Min Cost to Connect All Points
+- [ ] 86. Redundant Connection
+- [ ] 87. Max Area of Island
+- [ ] 88. Reverse Bits
+- [ ] 89. Number of 1 Bits
+- [ ] 90. House Robber
+- [ ] 91. Binary Tree Right Side View
+- [ ] 92. Number of Islands
+- [ ] 93. Happy Number
+- [ ] 94. Reverse Linked List
+- [ ] 95. Course Schedule
+- [ ] 96. Implement Trie (Prefix Tree)
+- [ ] 97. Course Schedule II
+- [ ] 98. Design Add and Search Words Data Structure
+- [ ] 99. Word Search II
+- [ ] 100. House Robber II
+- [ ] 101. Kth Largest Element in an Array
+- [ ] 102. Contains Duplicate
+- [ ] 103. Invert Binary Tree
+- [ ] 104. Daily Temperatures
+- [ ] 105. Longest Common Subsequence
+- [ ] 106. Kth Smallest Element in a BST
+- [ ] 107. Network Delay Time
+- [ ] 108. Lowest Common Ancestor of a Binary Search Tree
+- [ ] 109. Min Cost Climbing Stairs
+- [ ] 110. Product of Array Except Self
+- [ ] 111. Sliding Window Maximum
+- [ ] 112. Valid Anagram
+- [ ] 113. Meeting Rooms
+- [ ] 114. Meeting Rooms II
+- [ ] 115. Partition Labels
+- [ ] 116. Graph Valid Tree
+- [ ] 117. Missing Number
+- [ ] 118. Alien Dictionary
+- [ ] 119. Encode and Decode Strings
+- [ ] 120. Kth Largest Element in a Stream
+- [ ] 121. Binary Search
+- [ ] 122. Swim in Rising Water
+- [ ] 123. Walls and Gates
+- [ ] 124. Find the Duplicate Number
+- [ ] 125. Cheapest Flights Within K Stops
+- [ ] 126. Find Median from Data Stream
+- [ ] 127. Serialize and Deserialize Binary Tree
+- [ ] 128. Longest Increasing Subsequence
+- [ ] 129. Best Time to Buy and Sell Stock with Cooldown
+- [ ] 130. Burst Balloons
+- [ ] 131. Coin Change
+- [ ] 132. Number of Connected Components in an Undirected Graph
+- [ ] 133. Longest Increasing Path in a Matrix
+- [ ] 134. Reconstruct Itinerary
+- [ ] 135. Counting Bits
+- [ ] 136. Top K Frequent Elements
+- [ ] 137. Design Twitter
+- [ ] 138. Hand of Straights
+- [ ] 139. Sum of Two Integers
+- [ ] 140. Car Fleet
+- [ ] 141. Koko Eating Bananas
+- [ ] 142. Partition Equal Subset Sum
+- [ ] 143. Pacific Atlantic Water Flow
+- [ ] 144. Longest Repeating Character Replacement
+- [ ] 145. Non-overlapping Intervals
+- [ ] 146. Minimum Interval to Include Each Query
+- [ ] 147. Merge Triplets to Form Target Triplet
+- [ ] 148. Target Sum
+- [ ] 149. K Closest Points to Origin
+- [ ] 150. Time Based Key-Value Store
