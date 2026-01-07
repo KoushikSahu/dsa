@@ -85,9 +85,9 @@
 - [x] 83. Valid Parenthesis String
 - [x] 84. Two Sum II - Input Array Is Sorted
 - [x] 85. Min Cost to Connect All Points
-- [ ] 86. Redundant Connection
-- [ ] 87. Max Area of Island
-- [ ] 88. Reverse Bits
+- [x] 86. Redundant Connection
+- [x] 87. Max Area of Island
+- [x] 88. Reverse Bits
 - [ ] 89. Number of 1 Bits
 - [ ] 90. House Robber
 - [ ] 91. Binary Tree Right Side View
