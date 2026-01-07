@@ -83,8 +83,8 @@
 - [x] 81. Find Minimum in Rotated Sorted Array
 - [x] 82. Min Stack
 - [x] 83. Valid Parenthesis String
-- [ ] 84. Two Sum II - Input Array Is Sorted
-- [ ] 85. Min Cost to Connect All Points
+- [x] 84. Two Sum II - Input Array Is Sorted
+- [x] 85. Min Cost to Connect All Points
 - [ ] 86. Redundant Connection
 - [ ] 87. Max Area of Island
 - [ ] 88. Reverse Bits
