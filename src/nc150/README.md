@@ -88,12 +88,12 @@
 - [x] 86. Redundant Connection
 - [x] 87. Max Area of Island
 - [x] 88. Reverse Bits
-- [ ] 89. Number of 1 Bits
-- [ ] 90. House Robber
-- [ ] 91. Binary Tree Right Side View
-- [ ] 92. Number of Islands
-- [ ] 93. Happy Number
-- [ ] 94. Reverse Linked List
+- [x] 89. Number of 1 Bits
+- [x] 90. House Robber
+- [x] 91. Binary Tree Right Side View
+- [x] 92. Number of Islands
+- [x] 93. Happy Number - Clever idea, revise!
+- [x] 94. Reverse Linked List
 - [ ] 95. Course Schedule
 - [ ] 96. Implement Trie (Prefix Tree)
 - [ ] 97. Course Schedule II
