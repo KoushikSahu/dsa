@@ -94,10 +94,10 @@
 - [x] 92. Number of Islands
 - [x] 93. Happy Number - Clever idea, revise!
 - [x] 94. Reverse Linked List
-- [ ] 95. Course Schedule
-- [ ] 96. Implement Trie (Prefix Tree)
-- [ ] 97. Course Schedule II
-- [ ] 98. Design Add and Search Words Data Structure
+- [x] 95. Course Schedule
+- [x] 96. Implement Trie (Prefix Tree)
+- [x] 97. Course Schedule II
+- [x] 98. Design Add and Search Words Data Structure
 - [ ] 99. Word Search II
 - [ ] 100. House Robber II
 - [ ] 101. Kth Largest Element in an Array
