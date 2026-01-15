@@ -98,17 +98,17 @@
 - [x] 96. Implement Trie (Prefix Tree)
 - [x] 97. Course Schedule II
 - [x] 98. Design Add and Search Words Data Structure
-- [ ] 99. Word Search II
-- [ ] 100. House Robber II
-- [ ] 101. Kth Largest Element in an Array
-- [ ] 102. Contains Duplicate
-- [ ] 103. Invert Binary Tree
-- [ ] 104. Daily Temperatures
-- [ ] 105. Longest Common Subsequence
-- [ ] 106. Kth Smallest Element in a BST
-- [ ] 107. Network Delay Time
-- [ ] 108. Lowest Common Ancestor of a Binary Search Tree
-- [ ] 109. Min Cost Climbing Stairs
+- [x] 99. Word Search II
+- [x] 100. House Robber II
+- [x] 101. Kth Largest Element in an Array
+- [x] 102. Contains Duplicate
+- [x] 103. Invert Binary Tree
+- [x] 104. Daily Temperatures
+- [x] 105. Longest Common Subsequence
+- [x] 106. Kth Smallest Element in a BST
+- [x] 107. Network Delay Time
+- [x] 108. Lowest Common Ancestor of a Binary Search Tree
+- [x] 109. Min Cost Climbing Stairs
 - [ ] 110. Product of Array Except Self
 - [ ] 111. Sliding Window Maximum
 - [ ] 112. Valid Anagram
