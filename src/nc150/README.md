@@ -121,7 +121,7 @@
 - [ ] 119. Encode and Decode Strings
 - [x] 120. Kth Largest Element in a Stream
 - [x] 121. Binary Search
-- [ ] 122. Swim in Rising Water
+- [x] 122. Swim in Rising Water
 - [ ] 123. Walls and Gates
 - [ ] 124. Find the Duplicate Number
 - [ ] 125. Cheapest Flights Within K Stops
