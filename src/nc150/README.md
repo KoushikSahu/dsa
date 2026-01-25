@@ -123,8 +123,8 @@
 - [x] 121. Binary Search
 - [x] 122. Swim in Rising Water
 - [ ] 123. Walls and Gates
-- [ ] 124. Find the Duplicate Number
-- [ ] 125. Cheapest Flights Within K Stops
+- [x] 124. Find the Duplicate Number
+- [x] 125. Cheapest Flights Within K Stops - Bellman-Ford is important! Revise!
 - [ ] 126. Find Median from Data Stream
 - [ ] 127. Serialize and Deserialize Binary Tree
 - [ ] 128. Longest Increasing Subsequence
