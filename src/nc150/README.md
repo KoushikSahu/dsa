@@ -127,7 +127,7 @@
 - [x] 125. Cheapest Flights Within K Stops - Bellman-Ford is important! Revise!
 - [x] 126. Find Median from Data Stream
 - [x] 127. Serialize and Deserialize Binary Tree
-- [ ] 128. Longest Increasing Subsequence
+- [x] 128. Longest Increasing Subsequence - Revise the binary search solution
 - [ ] 129. Best Time to Buy and Sell Stock with Cooldown
 - [ ] 130. Burst Balloons
 - [ ] 131. Coin Change
