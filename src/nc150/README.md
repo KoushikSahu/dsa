@@ -128,7 +128,7 @@
 - [x] 126. Find Median from Data Stream
 - [x] 127. Serialize and Deserialize Binary Tree
 - [x] 128. Longest Increasing Subsequence - Revise the binary search solution
-- [ ] 129. Best Time to Buy and Sell Stock with Cooldown
+- [x] 129. Best Time to Buy and Sell Stock with Cooldown
 - [ ] 130. Burst Balloons
 - [ ] 131. Coin Change
 - [ ] 132. Number of Connected Components in an Undirected Graph
