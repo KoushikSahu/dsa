@@ -129,10 +129,10 @@
 - [x] 127. Serialize and Deserialize Binary Tree
 - [x] 128. Longest Increasing Subsequence - Revise the binary search solution
 - [x] 129. Best Time to Buy and Sell Stock with Cooldown
-- [ ] 130. Burst Balloons
-- [ ] 131. Coin Change
+- [x] 130. Burst Balloons
+- [x] 131. Coin Change
 - [ ] 132. Number of Connected Components in an Undirected Graph
-- [ ] 133. Longest Increasing Path in a Matrix
+- [x] 133. Longest Increasing Path in a Matrix
 - [ ] 134. Reconstruct Itinerary
 - [ ] 135. Counting Bits
 - [ ] 136. Top K Frequent Elements
