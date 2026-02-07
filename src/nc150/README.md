@@ -133,12 +133,12 @@
 - [x] 131. Coin Change
 - [ ] 132. Number of Connected Components in an Undirected Graph
 - [x] 133. Longest Increasing Path in a Matrix
-- [ ] 134. Reconstruct Itinerary
-- [ ] 135. Counting Bits
-- [ ] 136. Top K Frequent Elements
-- [ ] 137. Design Twitter
-- [ ] 138. Hand of Straights
-- [ ] 139. Sum of Two Integers
+- [x] 134. Reconstruct Itinerary
+- [x] 135. Counting Bits
+- [x] 136. Top K Frequent Elements
+- [x] 137. Design Twitter
+- [x] 138. Hand of Straights
+- [x] 139. Sum of Two Integers
 - [ ] 140. Car Fleet
 - [ ] 141. Koko Eating Bananas
 - [ ] 142. Partition Equal Subset Sum
