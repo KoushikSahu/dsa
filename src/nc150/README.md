@@ -139,12 +139,12 @@
 - [x] 137. Design Twitter
 - [x] 138. Hand of Straights
 - [x] 139. Sum of Two Integers
-- [ ] 140. Car Fleet
-- [ ] 141. Koko Eating Bananas
-- [ ] 142. Partition Equal Subset Sum
-- [ ] 143. Pacific Atlantic Water Flow
-- [ ] 144. Longest Repeating Character Replacement
-- [ ] 145. Non-overlapping Intervals
+- [x] 140. Car Fleet
+- [x] 141. Koko Eating Bananas
+- [x] 142. Partition Equal Subset Sum
+- [x] 143. Pacific Atlantic Water Flow
+- [x] 144. Longest Repeating Character Replacement
+- [x] 145. Non-overlapping Intervals
 - [ ] 146. Minimum Interval to Include Each Query
 - [ ] 147. Merge Triplets to Form Target Triplet
 - [ ] 148. Target Sum
